@@ -40,9 +40,6 @@ frm11 = Frame(top,height = 20)
 frm11.pack()
 
 def start():
-	
-
-
 	random1 = int(random.randint(1,100))
 	random2 = int(random.randint(1,100))
 
